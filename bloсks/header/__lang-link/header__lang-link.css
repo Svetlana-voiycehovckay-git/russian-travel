@@ -1,13 +1,17 @@
 .header__lang-link {
-font-style:  normal;
-font-weight: 400;
-font-size: 24px;
-line-height: 1.2;
-color: #FFFFFF;
+  padding-left: 18px;
+  font-style:  normal;
+  font-weight: 400;
+  font-size: 24px;
+  line-height: 1.2;
+  color: #FFFFFF;
+  text-decoration: none;
+  opacity: 1;
 }
 
-.header__lang-link:last-child  {
-  text-decoration: none;
+.header__lang-link:hover {
+  opacity: .8;
+  transition: ease;
 }
 
 @media screen and (max-width: 320px) {
