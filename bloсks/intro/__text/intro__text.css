@@ -13,11 +13,10 @@
   .intro__text {
     max-width: 720px;
   }
-}
+  }
   
-@media screen and (max-width: 320px) {
+@media screen and (max-width: 370px) {
   .intro__text {
     max-width: 288px;
-    padding-bottom: 34px;
   }
 }

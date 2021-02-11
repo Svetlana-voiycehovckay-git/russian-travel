@@ -17,7 +17,7 @@
   }
 }
   
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 929px) {
   .place__title {
     max-width: 340px;
     padding: 72px 28px 48px 0;
@@ -27,7 +27,7 @@
   }
 }
   
-@media screen and (max-width: 320px) {
+@media screen and (max-width: 719px) {
   .place__title {
     max-width: 288px;
     padding: 52px 16px 32px;
